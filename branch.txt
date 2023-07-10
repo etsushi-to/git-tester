@@ -1,3 +1,2 @@
 b1 branch txt
-locally edit some new lines on b1 branch txt
 
