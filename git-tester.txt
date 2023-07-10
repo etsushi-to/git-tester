@@ -1,3 +1,3 @@
 tester for git course
 add a few new lines 
-commit amend
+commit amend to test 
