@@ -12,5 +12,3 @@ pull b2 branch
 fetch b2txt
 
 pull request in branch nb
-
-write ci2
