@@ -1,1 +1,3 @@
 pull b2 branch
+
+fetch b2txt
