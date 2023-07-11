@@ -1,3 +1,14 @@
 tester for git course
 add a few new lines 
 commit amend to test 
+
+##tester for fetch
+test fetch
+
+b1 on main Conflex
+Conflex on b1
+
+pull b2 branch
+fetch b2txt
+
+pull request
