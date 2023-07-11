@@ -10,5 +10,3 @@ Conflex on b1
 
 pull b2 branch
 fetch b2txt
-
-pull request
